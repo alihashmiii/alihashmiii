@@ -3,8 +3,6 @@
 
 
 
-## Some statistics
-
 ![](https://github.com/alihashmiii/alihashmiii/blob/master/img/sourceoverview.PNG)
 
 ![](https://github.com/alihashmiii/alihashmiii/blob/master/img/sourcererlanguages.PNG)
