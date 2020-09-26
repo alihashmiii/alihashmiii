@@ -2,6 +2,8 @@
 
 
 
+I am a mechanical engineer, who is interested in simulating and experimentally exploring the physical basis of biological development. I am broadly interested in scientific programming, symbolic computing, image processing, computer vision and machine learning !
+
 
 ![](https://github.com/alihashmiii/alihashmiii/blob/master/img/sourceoverview.PNG)
 
