@@ -5,7 +5,6 @@
 **I am a mechanical engineer, who is interested in simulating and experimentally exploring the physical basis of biological development. I am broadly interested in scientific programming, symbolic computing, image processing, computer vision and machine learning !**
 
 
-___________________________________________________________________________________________________________________________________________________________________________________
 
 Following are the examples of some codes/scripts I have developed:
 
