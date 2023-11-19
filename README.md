@@ -2,7 +2,7 @@
 
 
 
-*I am a mechanical engineer with a PhD in biophysics. I am primarily interested in the mathematical/computational and experimental approaches for exploring the physical basis of biological development. I am broadly interested in scientific programming, symbolic computing, image processing/computer vision and machine learning!*
+*I have a PhD in biophysics. I am primarily interested in the mathematical/computational and experimental approaches for exploring the physical basis of biological development. I am broadly interested in scientific programming, symbolic computing, image processing/computer vision and machine learning!*
 
 
 
